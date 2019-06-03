@@ -1,0 +1,17 @@
+cmake-build-debug/
+CMakeFiles/
+Images/
+.idea/
+build.ninja
+CMakeCache.txt
+cmake_install.cmake
+cmake.txt.user
+lab7.cbp
+RayTracer.out
+Ray Tracing.docx
+Report.odt
+rules.ninja
+.ninja_deps
+.ninja_log
+Assignment 2.zip
+~$y Tracing.docx
